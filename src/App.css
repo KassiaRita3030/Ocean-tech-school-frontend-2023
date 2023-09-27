@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #000;
 }
 
 .card {
@@ -27,6 +28,7 @@
 
 .car > img {
   border-radius: 1rem;
+  max-width: 100%;
 }
 
 .tags {
